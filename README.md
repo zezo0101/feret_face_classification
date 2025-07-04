@@ -5,12 +5,12 @@ This repository contains a complete pipeline for face recognition, from data pre
 ## Repository Structure
 
 .
-├── cropping.py # Script to crop faces using ground truth data
-├── train_test.py # Script to split cropped faces into train/test sets
-├── choose_152.py # Filters dataset to keep only the best 152 persons
-├── model.py # Deep learning model architecture
-├── train.py # Training script
-└── predict.py # GUI for face classification
+├── cropping.py
+├── train_test.py
+├── choose_152.py
+├── model.py
+├── train.py
+└── predict.py
 
 
 ## Requirements
